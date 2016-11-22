@@ -1,6 +1,6 @@
-package com.yahoo.calculator.operations;
+package com.practice.calculator.operations;
 
-import com.yahoo.calculator.Constants;
+import com.practice.calculator.Constants;
 
 public class OperationsFactory {
 	public static IOperations getOperatorInstance(String operator) {

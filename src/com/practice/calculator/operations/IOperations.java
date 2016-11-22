@@ -1,4 +1,4 @@
-package com.yahoo.calculator.operations;
+package com.practice.calculator.operations;
 
 public interface IOperations {
 	

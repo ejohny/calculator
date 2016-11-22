@@ -1,8 +1,8 @@
-package com.yahoo.calculator.operators;
+package com.practice.calculator.operators;
 
 import java.util.HashMap;
 
-import com.yahoo.calculator.Constants;
+import com.practice.calculator.Constants;
 
 public class OperatorStore {
 

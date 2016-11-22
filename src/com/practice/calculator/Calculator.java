@@ -1,6 +1,6 @@
-package com.yahoo.calculator;
+package com.practice.calculator;
 
-import com.yahoo.calculator.parser.OperationPostfixParser;
+import com.practice.calculator.parser.OperationPostfixParser;
 
 public class Calculator {
 	

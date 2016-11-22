@@ -1,7 +1,7 @@
-package com.yahoo.calculator.operators;
+package com.practice.calculator.operators;
 
-import com.yahoo.calculator.operations.IOperations;
-import com.yahoo.calculator.operations.OperationsFactory;
+import com.practice.calculator.operations.IOperations;
+import com.practice.calculator.operations.OperationsFactory;
 
 public class Operator {
 

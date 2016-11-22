@@ -1,10 +1,10 @@
-package com.yahoo.calculator.parser;
+package com.practice.calculator.parser;
 
 import java.util.Stack;
 
-import com.yahoo.calculator.Constants;
-import com.yahoo.calculator.operators.Operator;
-import com.yahoo.calculator.operators.OperatorStore;
+import com.practice.calculator.Constants;
+import com.practice.calculator.operators.Operator;
+import com.practice.calculator.operators.OperatorStore;
 
 public class OperationPostfixParser {
 

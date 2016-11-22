@@ -1,4 +1,4 @@
-package com.yahoo.calculator;
+package com.practice.calculator;
 
 public interface Constants {
 
